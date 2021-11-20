@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Haotian Ma and I'm a student in School of Cyber Engineering at Xidian University. My major is network engineering. MY research interest includes Face Forgery Detection supervised by A.P.[chunlei peng](https://web.xidian.edu.cn/clpeng/), School of Cyber Engineering, Xidian University and Adversarial Attack.
+  Hi, my name's Haotian Ma and I'm a student in School of Cyber Engineering at Xidian University. My major is network engineering. MY research interest includes Face Forgery Detection, supervised by A.P.[Chunlei Peng](https://web.xidian.edu.cn/clpeng/), School of Cyber Engineering, Xidian University, and Adversarial Attack.
 
 content:
   - title: Education # Title for the section
